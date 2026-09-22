@@ -4,7 +4,7 @@ A scrollytelling visualization of how Steam's catalog has evolved across two dec
 Designed to help developers identify trends and understand the environment they
 will be realeasing their games into.
 
-**Live demo:** https://saxonwolcott.github.io/CMSC471-FinalProject/
+**Live demo:** https://saxonwolcott.github.io/steam-visualization
 
 ## Sections
 
